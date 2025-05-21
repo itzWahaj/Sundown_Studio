@@ -25,6 +25,6 @@ video.mp4 # Video used in the page
 ## 🚀 Hosting
 
 This project is hosted using **GitHub Pages**.  
-Visit: [[https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)](https://itzwahaj.github.io/Sundown_Studio/)
+Visit: (https://itzwahaj.github.io/Sundown_Studio/)
 
 
