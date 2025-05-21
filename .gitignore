@@ -1,0 +1,14 @@
+### 🛡️ `.gitignore` (Optional but useful)
+
+```bash
+# Ignore Mac system files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Node (if ever used)
+node_modules/
+
+# Compressed files
+*.zip
